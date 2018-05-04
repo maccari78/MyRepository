@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1213098656"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\macca\OneDrive\Técnico Superior Computación\90003 Introducción a la programación 03\Lazarus\TP10E01 Promocion\lib\x86_64-win64&quot; &quot;-FuC:\Users\macca\OneDrive\Técnico Superior Computación\90003 Introducción a la programación 03\Lazarus\TP10E01 Promocion\&quot; &quot;-FUC:\Users\macca\OneDrive\Técnico Superior Computación\90003 Introducción a la programación 03\Lazarus\TP10E01 Promocion\lib\x86_64-win64\&quot; TP10E01Promocion.pas"/>
+</CONFIG>

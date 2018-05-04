@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\SublimeText3\program TP10E01Promocion.pas"/>
+        <UnitName Value="TP10E01Promocion"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="118" Column="51" TopLine="99"/>
+      </Position1>
+      <Position2>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="89" Column="58" TopLine="73"/>
+      </Position2>
+      <Position3>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="97" Column="3" TopLine="73"/>
+      </Position3>
+      <Position4>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="87" Column="36" TopLine="73"/>
+      </Position4>
+      <Position5>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="98" Column="3" TopLine="88"/>
+      </Position5>
+      <Position6>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="104" Column="8" TopLine="94"/>
+      </Position6>
+      <Position7>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="88" Column="56" TopLine="64"/>
+      </Position7>
+      <Position8>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="93" Column="91" TopLine="76"/>
+      </Position8>
+      <Position9>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="12" Column="54"/>
+      </Position9>
+      <Position10>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="80" Column="133" TopLine="68"/>
+      </Position10>
+      <Position11>
+        <Filename Value="TP10E01Promocion.pas"/>
+        <Caret Line="90" Column="75" TopLine="71"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
