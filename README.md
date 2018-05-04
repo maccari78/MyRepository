@@ -1,4 +1,4 @@
-UNIVERSIDAD NACIONAL DEL SUR Introducción a la Programación
+UNIVERSIDAD NACIONAL DEL SUR, Introducción a la Programación,
 Escuela Superior de Comercio – Nivel Terciario 1 “A” - 2016
 
 TRABAJO DE PROMOCIÓN
